@@ -10,5 +10,3 @@ In a star's interior, neutrinos are produced via a number of thermal processesâ€
 
 #### 2021-1-8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3Njg2NTQ1XX0=
--->
