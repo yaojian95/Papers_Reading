@@ -1,6 +1,8 @@
 
 ## Daily papers
 
+[TOC]
+
 #### 2021-1-7 [Neutrinos from Beta Processes in a Presupernova: Probing the Isotopic Evolution of a Massive Star](https://iopscience.iop.org/article/10.3847/1538-4357/aa95c4)
 
 In a star's interior, neutrinos are produced via a number of thermal processes—mostly pair production—and via _β_-processes, i.e., electron/positron captures on nuclei and nuclear decay.
@@ -12,6 +14,6 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mjg3MTQ0LDEwNjE5OTU3MTYsMTg4ND
-IwMTM4NiwtODcwMTAwODg3XX0=
+eyJoaXN0b3J5IjpbNTAxMjA0NDA4LDExNDI4NzE0NCwxMDYxOT
+k1NzE2LDE4ODQyMDEzODYsLTg3MDEwMDg4N119
 -->
