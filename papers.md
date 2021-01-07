@@ -6,8 +6,9 @@
 In a star's interior, neutrinos are produced via a number of thermal processes—mostly pair production—and via _β_-processes, i.e., electron/positron captures on nuclei and nuclear decay.
 
 #### 2021-1-8 [Reconstructing Patchy Reionization with Deep Learning](https://arxiv.org/pdf/2101.01214.pdf)
-1. Secondary anisotropies of CMB :weak gravitational lensing by large-scale structure,the various manifestations of the Sunyaev-Zel’dovich effect, the integrated Sachs-Wolfe and Rees-Sciama effects, characterizing how time-dependent gravitational potentials alter the energy of CMB photons; and the moving lens effect, where the transverse motion of massive objects imprints temperature fluctuations on the CMB.
+1. Secondary anisotropies of CMB :weak gravitational lensing by large-scale structure,the various manifestations of the Sunyaev-Zel’dovich effect, which describe Compton scattering of CMB photons with free electrons in galaxy clusters and the intergalactic medium,the integrated Sachs-Wolfe and Rees-Sciama effects, characterizing how time-dependent gravitational potentials alter the energy of CMB photons; and the moving lens effect, where the transverse motion of massive objects imprints temperature fluctuations on the CMB.
+2. Delensing.Delensing the CMB is useful beyond the benefits it provides for primordial gravitational wave searches. For example, delensing the temperature and E-mode polarization leads to sharper peaks in the power spectra, allowing for a better determination of parameters which impact peak positions [41, 42]. Delensing can also reduce the off-diagonal covariance induced by lensing [41] and thereby improve the sensitivity of the CMB to other effects, such as primordial non-Gaussianity [43].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mzk2NjgzLC0xNDAwOTk5MTgwLC0xMj
-E2ODczMzI5XX0=
+eyJoaXN0b3J5IjpbNDA4Njg4NjgsLTI4Mzk2NjgzLC0xNDAwOT
+k5MTgwLC0xMjE2ODczMzI5XX0=
 -->
