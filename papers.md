@@ -2,9 +2,11 @@
 ## Daily papers
 
 [TOC]
+#### 2021-1-8 [Dynamical dark energy after Planck CMB final release and H0 tension](https://arxiv.org/pdf/2101.02168.pdf)
 
 #### 2021-1-7 [Neutrinos from Beta Processes in a Presupernova: Probing the Isotopic Evolution of a Massive Star](https://iopscience.iop.org/article/10.3847/1538-4357/aa95c4)
 
+The advanced evolution of massive stars—which culminates in their collapse, and possible explosion as supernovae—has been observed so far only in the electromagnetic band. Completely different messengers, the neutrinos, dominate the star's energy loss from the core carbon-burning phase onward, and with their fast diffusion timescale, they set the very rapid pace (from months to hours) of the latest stages of nuclear fusion (presupernova). These neutrinos have never been detected; their observation in the future would offer a unique and direct probe of the physical processes that lead to stellar core collapse.
 
 In a star's interior, neutrinos are produced via a number of thermal processes—mostly pair production—and via _β_-processes, i.e., electron/positron captures on nuclei and nuclear decay. The neutrino flux from thermal processes mainly depends on the thermodynamic conditions in the core. The neutrino flux from _β_ reactions has a stronger dependence on the isotopic composition, and thus on the complex network of nuclear reactions that take place in the star. In this respect, the two classes of production, thermal and _β_, carry complementary information.
 
@@ -15,7 +17,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjU3ODUxMiwtMjE5OTQ3NjEwLDUwMT
-IwNDQwOCwxMTQyODcxNDQsMTA2MTk5NTcxNiwxODg0MjAxMzg2
-LC04NzAxMDA4ODddfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ5MTQ2NDUsMTQxNjU3ODUxMiwtMj
+E5OTQ3NjEwLDUwMTIwNDQwOCwxMTQyODcxNDQsMTA2MTk5NTcx
+NiwxODg0MjAxMzg2LC04NzAxMDA4ODddfQ==
 -->
