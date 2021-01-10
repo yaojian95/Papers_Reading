@@ -2,6 +2,18 @@
 ## Daily papers
 
 [TOC]
+#### 1-9 [1979 Nobel prize in physis](https://www.nobelprize.org/prizes/physics/1979/press-release/) -  **unified weak and electromagnetic interaction between elementary particles**
+The discovery of the radioactivity of certain heavy elements towards the end of last century, and the ensuing development of the physics of the atomic nucleus, led to the introduction of two new forces or interactions: the strong and the weak nuclear forces. Unlike gravitation and electromagnetism these forces act only at very short distances, of the order of nuclear diameters or less. While the strong interaction keeps protons and neutrons together in the nucleus, the weak interaction causes the so-called radioactive beta-decay. The typical process is the decay of the neutron: the neutron, with charge zero, is transformed into a positively charged proton, with the emission of a negatively charged electron and a neutral, massless particle, the neutrino.
+
+
+#### [粒子物理](https://zhuanlan.zhihu.com/p/170992644)
+对于自旋为半整数的粒子，不相容原理使它们不能聚集在同一个态上，这样可以导出它们满足一种被称为费米-狄拉克统计的统计规律，由此半整数自旋的粒子也被称为**费米子**。而对于自旋为整数的粒子，一个态上能聚集的粒子数没有限制，因此它们满足一种被称作玻色-爱因斯坦统计的统计规律，被称为**玻色子**。
+
+紫外灾难。
+
+![紫外灾难](https://pic1.zhimg.com/80/v2-00c6852438e8a774bf1e21f65c24fe04_720w.jpg)
+
+
 #### 2021-1-8 [Dynamical dark energy after Planck CMB final release and H0 tension](https://arxiv.org/pdf/2101.02168.pdf)
 
 #### 2021-1-7 [Neutrinos from Beta Processes in a Presupernova: Probing the Isotopic Evolution of a Massive Star](https://iopscience.iop.org/article/10.3847/1538-4357/aa95c4)
@@ -17,7 +29,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ5MTQ2NDUsMTQxNjU3ODUxMiwtMj
-E5OTQ3NjEwLDUwMTIwNDQwOCwxMTQyODcxNDQsMTA2MTk5NTcx
-NiwxODg0MjAxMzg2LC04NzAxMDA4ODddfQ==
+eyJoaXN0b3J5IjpbLTgwMjkwMDMxMywxNDE2NTc4NTEyLC0yMT
+k5NDc2MTAsNTAxMjA0NDA4LDExNDI4NzE0NCwxMDYxOTk1NzE2
+LDE4ODQyMDEzODYsLTg3MDEwMDg4N119
 -->
