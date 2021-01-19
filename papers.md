@@ -2,9 +2,16 @@
 ## Daily papers
 
 [TOC]
+#### 1-19  [Anomalous separations of the CMB temperature angular power spectrum](https://arxiv.org/pdf/2101.06731.pdf)
+
+1. Cosmological data analysis in the past unveiled many **anomalies** in the observed CMB  patterns of WMAP and Planck. Such anomalies include the north-south power asymmetry [5], the anomalous cold spot ( [40], [14], [13]), high degree of octupolequadrupole alignment ( [39], [17], [38]), quadrupole power deficit ( [4], [24]) and planarity of the octupole [16], and the like. Some of the latter ones concerning the quadrupole and octupole have been somewhat mitigated using a hypothetical foreground reduction [1].
+2. Anomalies, specifically those of the power excess for lower odd multipoles [30], have been shown to be a part of a more general trend in the observed maps ( [29], [3], [42]) referred to as a ‘parity asymmetry’ of the power distributed among low odd and even parity multipoles. Studies of the Integrated Sachs-Wolfe (ISW) effect for low multipoles [15] help explain the power deficit in this range of multipoles.
+
 #### 1-9 [1979 Nobel prize in physis](https://www.nobelprize.org/prizes/physics/1979/press-release/) -  **unified weak and electromagnetic interaction between elementary particles**
 The discovery of the radioactivity of certain heavy elements towards the end of last century, and the ensuing development of the physics of the atomic nucleus, led to the introduction of two new forces or interactions: the strong and the weak nuclear forces. Unlike gravitation and electromagnetism these forces act only at very short distances, of the order of nuclear diameters or less. While the strong interaction keeps protons and neutrons together in the nucleus, the weak interaction causes the so-called radioactive beta-decay. The typical process is the decay of the neutron: the neutron, with charge zero, is transformed into a positively charged proton, with the emission of a negatively charged electron and a neutral, massless particle, the neutrino.
 
+- 强相互作用于弱相互作用
+这种核子间的相互作用命名为“**强相互作用**”
 
 #### [粒子物理](https://zhuanlan.zhihu.com/p/170992644)
 对于自旋为半整数的粒子，不相容原理使它们不能聚集在同一个态上，这样可以导出它们满足一种被称为费米-狄拉克统计的统计规律，由此半整数自旋的粒子也被称为**费米子**。而对于自旋为整数的粒子，一个态上能聚集的粒子数没有限制，因此它们满足一种被称作玻色-爱因斯坦统计的统计规律，被称为**玻色子**。
@@ -29,7 +36,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjkwMDMxMywxNDE2NTc4NTEyLC0yMT
-k5NDc2MTAsNTAxMjA0NDA4LDExNDI4NzE0NCwxMDYxOTk1NzE2
-LDE4ODQyMDEzODYsLTg3MDEwMDg4N119
+eyJoaXN0b3J5IjpbLTIwMjgxMTEyMTgsMTQxNjU3ODUxMiwtMj
+E5OTQ3NjEwLDUwMTIwNDQwOCwxMTQyODcxNDQsMTA2MTk5NTcx
+NiwxODg0MjAxMzg2LC04NzAxMDA4ODddfQ==
 -->
