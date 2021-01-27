@@ -4,7 +4,9 @@
 [TOC] Reinoization bump and recombination bump
 #### 1-27 [Gravitational waves detection sensitivity](https://iopscience.iop.org/article/10.1088/0264-9381/32/1/015014/pdf) 
 https://cplberry.com/2015/01/10/1408-0740/
+power spectrum density of noise
 ![Sensitivity](https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/0264-9381/32/1/015014/1/cqg503659f3_online.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1612376815&Signature=J/KQAZVBY9hFIz1mXYn6YfeNILo=)
+When talking about gravitational-wave detectors, you normally use a sensitivity curve. This shows how sensitive it is at a given frequency: you plot a graph with the sensitivity curve on, and then plot the spectrum of the source you’re interested in on the same graph. If your source is above the sensitivity curve, you can detect it (yay), but if it lies below it, then you can’t pick it out from the noise (boo).
 
 #### 
 We find that the power spectra are best reconstructed at wavenumbers in the vicinity of k ≈ $6 × 10^{−4}$and $5 × 10^{−3} Mpc^{−1}$ , which correspond to the “reionization bump” at $\ell < 6$ and “recombination bump” at $\ell$ ≈ 80 of the CMB B-mode power spectrum, respectively
@@ -58,7 +60,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMyMzQzNjQsMTQxNjU3ODUxMiwtMj
-E5OTQ3NjEwLDUwMTIwNDQwOCwxMTQyODcxNDQsMTA2MTk5NTcx
-NiwxODg0MjAxMzg2LC04NzAxMDA4ODddfQ==
+eyJoaXN0b3J5IjpbMTc5MjgxMDI4MCwxNDE2NTc4NTEyLC0yMT
+k5NDc2MTAsNTAxMjA0NDA4LDExNDI4NzE0NCwxMDYxOTk1NzE2
+LDE4ODQyMDEzODYsLTg3MDEwMDg4N119
 -->
