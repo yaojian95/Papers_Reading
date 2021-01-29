@@ -2,9 +2,18 @@
 ## Daily papers
 
 [TOC] Reinoization bump and recombination bump
-#### Energy momentum tensor
+#### 1-29 [Quadratic estimators for CMB weak lensing](https://arxiv.org/pdf/2101.12193.pdf)
+
+The prime target of CMB lensing surveys is the lensing potential, which is reconstructed from the observed CMB temperature T and polarization E and B fields. Until very recently, this reconstruction has been performed with quadratic estimators (QEs), which, although known to be suboptimal for high-sensitivity experiments, are numerically efficient, and useful to make forecasts and cross-check the results of more sophisticated likelihood-based methods.
+
+global-minimum-variance (GMV): HO02 estimator is suboptimal to the GMV estimator, with a reconstruction noise larger by up to ∼ 9% for a SO-like experiment.
+#### Energy momentum tensor: density and flow of energy and momentum are combined into energy-momentum tensor.
+
 row 0, energy; column 0, density; column 1-3, flow
-row 1-3, momentum; column 0, density; column 1-3, flow
+row 1-3, momentum; 
+column 0, density; 
+column 1-3, flow, connected to pressure
+Symmetric(from relarivistic field theory): $T^{0m} = T^{m0}$
 Any component with a single lower index is, by convention, the component of a one-form;  
 an upper index denotes the component of a vector.
 
@@ -66,7 +75,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTU3MTUzNSwxNDE2NTc4NTEyLC0yMT
+eyJoaXN0b3J5IjpbLTYxMTM3ODIzMCwxNDE2NTc4NTEyLC0yMT
 k5NDc2MTAsNTAxMjA0NDA4LDExNDI4NzE0NCwxMDYxOTk1NzE2
 LDE4ODQyMDEzODYsLTg3MDEwMDg4N119
 -->
