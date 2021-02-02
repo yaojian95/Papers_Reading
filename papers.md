@@ -11,12 +11,7 @@ In recent years, one tracer has emerged as being particularly useful for delensi
 It originates from a broad redshift range centred around 𝑧 ≈ 1–2, though extending as far back as 𝑧 ≈ 4 (Béthermin et al. 2012; Viero et al. 2013a,b). This distribution overlaps extensively with the lenses responsible for CMB lensing; so much so that the CIB and CMB lensing convergence are up to 80 % correlated (Song et al. 2003; Holder et al. 2013; Planck Collaboration 2014b). The constituent dust is at a temperature of a few tens of Kelvin so CIB emission peaks in the sub-millimetre part of the electromagnetic spectrum, where it was first detected by Puget et al. (1996), and dominates over other components (at least at high Galactic latitudes) in the high-frequency channels of CMB experiments, with lower frequencies probing higher-redshift sources.
 
 #### 1-31 Dust and gas as obscuring medium.(from review paper, Obscured Active Galactic  Nuclei)
-The obscuring medium is typically composed of dust and/or gas. **Dust** is the common term used  
-to describe solid-state structures, which are typically carbonaceous grains and amorphous silicate  
-grains (for a review, see Draine 2003). **Gas** is the term used to describe a broad range of gaseous  
-states, from fully ionized gas, including electrons and protons, to neutral gas and molecular compounds. Dust is the dominant source of obscuration at UV–IR wavelengths, while gas dominates  
-the absorption at X-ray energies. The impact of the obscuring material on the detection of the  
-accretion-disk emission is dependent on the wavelength.
+The obscuring medium is typically composed of dust and/or gas. **Dust** is the common term used  to describe solid-state structures, which are typically carbonaceous grains and amorphous silicate grains (for a review, see Draine 2003). **Gas** is the term used to describe a broad range of gaseous states, from fully ionized gas, including electrons and protons, to neutral gas and molecular compounds. Dust is the dominant source of obscuration at UV–IR wavelengths, while gas dominates the absorption at X-ray energies. The impact of the obscuring material on the detection of the accretion-disk emission is dependent on the wavelength.
 
 #### 1-29 [Quadratic estimators for CMB weak lensing](https://arxiv.org/pdf/2101.12193.pdf)
 
@@ -100,7 +95,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkxNDQzMjEsMTQxNjU3ODUxMiwtMj
+eyJoaXN0b3J5IjpbLTExMTM5MTkzOTEsMTQxNjU3ODUxMiwtMj
 E5OTQ3NjEwLDUwMTIwNDQwOCwxMTQyODcxNDQsMTA2MTk5NTcx
 NiwxODg0MjAxMzg2LC04NzAxMDA4ODddfQ==
 -->
