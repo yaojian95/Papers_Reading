@@ -2,6 +2,17 @@
 ## Daily papers
 
 [TOC] Reinoization bump and recombination bump
+
+#### 4-30 [A new approach of estimating the Galactic thermal dust and synchrotron polarized emission template in the microwave bands](https://arxiv.org/pdf/2104.13778.pdf)
+- The simplicity of ILC is that it does not assumes anything about the model of the components. ILC estimates the weights by minimizing the variance of the resulting map.
+- This method is only applicable to the spin0 fields where quantities are not projected in local frames. 
+- However, in the case of polarization, we need to deal with the components having polarization vectors projected in the local frame. Stokes Q and U are not projected in a global reference frame like temperature. The mean and variance for individual spinorial components, therefore, are not defined. Therefore, a natural extension of ILC in the individual Q , U field is not possible.
+- The straightforward way to apply a similar version of the ILC method for polarization data is to work on E- and B- mode maps.
+- However, only partial sky polarization data are commonly available in a real scenario, and decomposing them to (pure) E and B- maps is not a trivial task.
+##### Moment expansion
+- Moment expansion is a powerful approach proposed by Chluba et al. (2017) to describe the unknown complexity of the foregrounds due to variations of the spectral properties along the line-of-sight (LOS) inside the beam and across the sky. In short, moment expansion is a perturbative approach of foreground modelling under some assumption of spectral energy distribution (SED) of the components.
+- Foreground emissions are thought to be a superposition of the emission from individual emitting blocks that can be characterized by varying SEDs. Therefore, when we observe the sky within some beam; the line-of-sight and spatial average over SEDs are inevitable. These effects alter the spectral properties of the observed emissions. For example, although spectral properties of the synchrotron emission can be described as a power-law model for individual blocks, after averaging inside the beam, it remains no longer the power-law (Remazeilles et al. 2020). This effect results in **frequency-frequency decorrelation**. Aside from the above two averaging effects, downgrading the maps at lower angular resolution also gives rise to the spectral averaging effect.
+
 #### 2-2 [Delensing the CMB with the cosmic infrared background: the impact of foregrounds](https://arxiv.org/pdf/2102.01045.pdf)
 The most promising avenue for detecting primordial gravitational waves from cosmic inflation is through measurements of degree-scale CMB 𝐵-mode polarisation. This approach must face the challenge posed by gravitational lensing of the CMB, which obscures the signal of interest. Fortunately, the lensing effects can be partially removed by combining high-resolution 𝐸-mode measurements with an **estimate of the projected matter distribution**. For near-future experiments, the best estimate of the latter **will arise from co-adding internal reconstructions (derived from the CMB itself) with external tracers of the large-scale structure such as galaxy surveys and the cosmic infrared background (CIB)**.
 
@@ -95,7 +106,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzU0NTYyMiwxNDE2NTc4NTEyLC0yMT
-k5NDc2MTAsNTAxMjA0NDA4LDExNDI4NzE0NCwxMDYxOTk1NzE2
-LDE4ODQyMDEzODYsLTg3MDEwMDg4N119
+eyJoaXN0b3J5IjpbNDQyMDY5NTUzLDE0MTY1Nzg1MTIsLTIxOT
+k0NzYxMCw1MDEyMDQ0MDgsMTE0Mjg3MTQ0LDEwNjE5OTU3MTYs
+MTg4NDIwMTM4NiwtODcwMTAwODg3XX0=
 -->
