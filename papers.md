@@ -2,6 +2,8 @@
 ## Daily papers
 
 [TOC] Reinoization bump and recombination bump
+#### 6-29 S–PASS view of polarized Galactic synchrotron at 2.3 GHz as a contaminant to CMB observations
+- Polarized Galactic synchrotron and thermal dust signals are expected to have **some degree of correlation**, due to the same underlying Galactic magnetic field: cross correlation between the S-PASS and Planck maps at 353 GHz
 
 #### 4-30 [A new approach of estimating the Galactic thermal dust and synchrotron polarized emission template in the microwave bands](https://arxiv.org/pdf/2104.13778.pdf)
 - The simplicity of ILC is that it does not assumes anything about the model of the components. ILC estimates the weights by minimizing the variance of the resulting map.
@@ -106,7 +108,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMDY5NTUzLDE0MTY1Nzg1MTIsLTIxOT
+eyJoaXN0b3J5IjpbNjQ5OTc0ODczLDE0MTY1Nzg1MTIsLTIxOT
 k0NzYxMCw1MDEyMDQ0MDgsMTE0Mjg3MTQ0LDEwNjE5OTU3MTYs
 MTg4NDIwMTM4NiwtODcwMTAwODg3XX0=
 -->
