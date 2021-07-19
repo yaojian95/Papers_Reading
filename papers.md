@@ -2,7 +2,7 @@
 ## Daily papers
 
 [TOC] Reinoization bump and recombination bump
-#### 7-14 How to measure CMB power spectra without losing information  Max Tegmark
+#### 7-14 How to measure CMB power spectra without losing information; Max Tegmark 1997
 - A plot of  power spectrum estimates allows experiments to be compared in a **model-independent** way, as opposed to, say, parameter estimates and exclusion plots that are only valid  within the framework of particular cosmological models.
 - Edge tapering -- **feathering**. 
 For the window function to be narrow, we loosely speaking want the pixel weighting to be narrow in the Fourier (multipole) domain, and so to avoid excessive ‘‘ringing’’ in Fourier space, the weighting in real space should be continuous and smooth. This standard signal-processing procedure is also known as **apodizing**.
@@ -14,6 +14,7 @@ For the window function to be narrow, we loosely speaking want the pixel weighti
 
 - To test if a power spectrum estimation method is **lossless**, we  simply compute the covariance matrix and check if it equals the inverse of the Fisher matrix **F**.
 $F^{-1}$ can, crudely speaking, be thought of as the best possible covariance matrix for the measurement errors on the parameters. For instance, the Cramer-Rao inequality shows that no unbiased method whatsoever can  measure the ith parameter with error bars (standard deviation) less than $1/\sqrt{F_{ii}}$. If the other parameters are not known but estimated from the data as well, the minimum standard  deviation rises to $\sqrt{(F^{-1})_{ii}}$ .
+This point is also mentioned in **HOW TO MAKE MAPS FROM COSMIC MICROWAVE BACKGROUND DATA WITHOUT LOSING INFORMATION TEGMARK 1997**
 
 #### 4-30 [A new approach of estimating the Galactic thermal dust and synchrotron polarized emission template in the microwave bands](https://arxiv.org/pdf/2104.13778.pdf)
 - The simplicity of ILC is that it does not assumes anything about the model of the components. ILC estimates the weights by minimizing the variance of the resulting map.
@@ -118,7 +119,7 @@ In a star's interior, neutrinos are produced via a number of thermal processes�
 4. The inhomogeneous nature of the reionization epoch causes several observable impacts on the CMB . The patchiness of reionization leads to an anisotropic optical depth whose effects on the CMB can be separated into three categories: screening, scattering, and the kinetic Sunyaev-Zel’dovich effect. First, the variation of the optical depth on the sky, $τ (\hat{n})$, leads to a spatially dependent screening of CMB fluctuations due to the scattering of CMB photons into and out of our line of sight. Next, Thomson scattering of remote temperature quadrupoles on the free electrons in ionized bubbles generates new polarization fluctuations. Finally, the radial velocity of ionized bubbles generates CMB temperature fluctuations through the kinetic Sunyaev-Zel’dovich effect. For the purpose of this paper, we focus solely on the screening effect of patchy reionization, since we are interested in the **effect that can be reconstructed from observations of CMB polarization alone.** The scattering effect results in new polarization that is not correlated with the polarization generated at the surface of last scattering, and the kinetic Sunyaev-Zel’dovich effect only produces temperature fluctuations.
 5. Quadratic estimator. While the quadratic estimator works well with current data, it will be **sub-optimal** at the sensitivity anticipated in the next generation of CMB surveys. One reason for this is that higher order effects of the sources of secondary anisotropies become too important to ignore in very high fidelity CMB maps, and use of the quadratic estimator results in an estimate of the distortion field whose variance is limited by secondary anistropies rather than by instrumental noise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQxMTA5MCwxNDE2NTc4NTEyLC0yMT
+eyJoaXN0b3J5IjpbLTg2OTMyMzY1MiwxNDE2NTc4NTEyLC0yMT
 k5NDc2MTAsNTAxMjA0NDA4LDExNDI4NzE0NCwxMDYxOTk1NzE2
 LDE4ODQyMDEzODYsLTg3MDEwMDg4N119
 -->
